@@ -1,0 +1,154 @@
+****************
+Vektoria-Logfile
+
+****************
+Ok:    Distribudted Graphics API established
+Ok:    Collected materials in virtual hierarchy
+Error: In CRoot::AddMaterial: pmaterial is a nullptr
+Ok:    Collected materials in real hierarchy
+Ok:    Cyberglasses API established
+Ok:    Graphics API established
+Info:  Tearing supported: 1
+Info:  GPU Adapter 1: Intel(R) UHD Graphics
+Info:  - Memory Dedicated System: 0
+Info:  - Memory Dedicated Video : 134217728
+Info:  - Memory Shared System   : 4205864960
+Info:      - Output 1: \\.\DISPLAY1
+Info:          - Resolution: 320 * 200, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 320 * 200, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 320 * 200, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 320 * 200, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 320 * 240, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 320 * 240, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 320 * 240, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 320 * 240, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 400 * 300, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 400 * 300, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 400 * 300, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 400 * 300, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 512 * 384, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 512 * 384, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 512 * 384, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 512 * 384, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 640 * 400, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 640 * 400, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 640 * 400, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 640 * 400, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 640 * 480, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 640 * 480, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 640 * 480, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 640 * 480, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 800 * 600, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 800 * 600, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 800 * 600, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 800 * 600, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1024 * 768, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1024 * 768, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1024 * 768, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1024 * 768, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1152 * 864, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1152 * 864, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1152 * 864, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1152 * 864, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1280 * 600, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1280 * 600, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1280 * 600, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1280 * 600, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1280 * 720, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1280 * 720, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1280 * 720, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1280 * 720, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1280 * 768, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1280 * 768, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1280 * 768, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1280 * 768, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1280 * 800, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1280 * 800, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1280 * 800, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1280 * 800, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1280 * 960, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1280 * 960, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1280 * 960, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1280 * 960, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1280 * 1024, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1280 * 1024, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1280 * 1024, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1280 * 1024, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1360 * 768, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1360 * 768, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1360 * 768, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1360 * 768, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1366 * 768, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1366 * 768, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1366 * 768, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1366 * 768, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1400 * 1050, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1400 * 1050, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1400 * 1050, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1400 * 1050, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1440 * 900, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1440 * 900, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1440 * 900, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1440 * 900, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1600 * 900, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1600 * 900, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1600 * 900, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1600 * 900, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1600 * 1200, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1600 * 1200, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1600 * 1200, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1600 * 1200, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1680 * 1050, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1680 * 1050, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1680 * 1050, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1680 * 1050, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1792 * 1344, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1792 * 1344, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1792 * 1344, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1792 * 1344, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1856 * 1392, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1856 * 1392, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1856 * 1392, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1856 * 1392, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1920 * 1080, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1920 * 1080, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1920 * 1080, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1920 * 1080, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1920 * 1200, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1920 * 1200, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1920 * 1200, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1920 * 1200, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1920 * 1440, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1920 * 1440, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 1920 * 1440, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 1920 * 1440, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 2048 * 1152, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 2048 * 1152, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 2048 * 1152, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 2048 * 1152, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 2048 * 1536, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 2048 * 1536, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 2048 * 1536, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 2048 * 1536, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:          - Resolution: 2560 * 1600, Refresh rate: 217512960 / 4531520 = 48.000000 Hz
+Info:          - Resolution: 2560 * 1600, Refresh rate: 271900000 / 4531520 = 60.001942 Hz
+Info:      - Nr of Outputs: 2
+Info:  GPU Adapter 2: Microsoft Basic Render Driver
+Info:  - Memory Dedicated System: 0
+Info:  - Memory Dedicated Video : 0
+Info:  - Memory Shared System   : 4205864960
+Info:      - Nr of Outputs: 1
+Info:  Choose 1. adapter as best
+Debug: Attempting descriptor heap creation with 16384 descriptors, taking 1048576 bytes of memory
+Debug: Descriptor heap with 16384 descriptors created of requested 16384 descriptors
+Info:  Main pass SRV descriptor heap created with 16384 descriptor slots
+Warn:  Your sound card is not compatible to DirectSound, so the calculation of the 3D sounds will reduce the frame rate.
+Info:  PrimaryBuffer buffer has 32768 Bytes.
+Ok:    DirectSound initialized
+Ok:    Sound API established
+Ok:    Frames created
+Ok:    Scenes created
+Ok:    Hierarchy checked.
+Ok:    Materials created
+Ok:    Viewports created
+Error: In CRoot::AddMaterial: pmaterial is a nullptr
